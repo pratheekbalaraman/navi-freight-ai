@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Intelligent Freight Forecasting \u0026 Vessel Chartering Optimizer",
+  "description": "AI-driven freight rate forecasting, vessel class optimization, and voyage charter procurement platform for bulk cargo imports to East Coast India ports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
